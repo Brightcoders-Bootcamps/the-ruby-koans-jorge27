@@ -1,0 +1,7 @@
+.bundle
+.bundle/*
+Gemfile.lock
+koans_unsolved
+koans_unsolved/*
+tmp
+tmp/*
