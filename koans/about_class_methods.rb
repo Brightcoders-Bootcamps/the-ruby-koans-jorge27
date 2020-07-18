@@ -41,7 +41,7 @@ class AboutClassMethods < Neo::Koan
       :fidos_wag
     end
 
-    assert_raise(__) do
+    assert_raise(Exception) do
       rover.wag
     end
   end
